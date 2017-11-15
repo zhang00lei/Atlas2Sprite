@@ -1,0 +1,8 @@
+F:\VSProject\InciseAtlas\InciseAtlas\bin\Debug\InciseAtlas.exe.config
+F:\VSProject\InciseAtlas\InciseAtlas\obj\Debug\InciseAtlas.csprojResolveAssemblyReference.cache
+F:\VSProject\InciseAtlas\InciseAtlas\bin\Debug\InciseAtlas.exe
+F:\VSProject\InciseAtlas\InciseAtlas\bin\Debug\InciseAtlas.pdb
+F:\VSProject\InciseAtlas\InciseAtlas\bin\Debug\Newtonsoft.Json.dll
+F:\VSProject\InciseAtlas\InciseAtlas\bin\Debug\Newtonsoft.Json.xml
+F:\VSProject\InciseAtlas\InciseAtlas\obj\Debug\InciseAtlas.exe
+F:\VSProject\InciseAtlas\InciseAtlas\obj\Debug\InciseAtlas.pdb
